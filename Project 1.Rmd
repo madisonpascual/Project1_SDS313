@@ -1,6 +1,6 @@
 ---
 title: "Project 1"
-author: "Madison Pascual"
+author: "Madison Pascual, Brendan Ryan"
 date: "`r Sys.Date()`"
 output:
   html_document:
@@ -130,7 +130,7 @@ Additionally, a moderate negative correlation between peak Billboard position an
 
 Future research could explore other variables that influence an album’s success. This could include examining the impact of an artist’s social media presence, global reach, and performance on other streaming platforms beyond Spotify to provide a more comprehensive understanding of modern music success. Additionally, segmenting the data by decades or release periods may reveal evolving trends influenced by cultural shifts in music consumption and production.
 
-### **Reference**
+### **References**
 
 Rolling Stone. (2020). *Top 500 Albums of All Time*. [https://pudding.cool/2024/03/greatest-music/](https://pudding.cool/2024/03/greatest-music/)
 
